@@ -6,4 +6,4 @@ Now specializing in **AI & Cybersecurity**, with experience in **Java, Python, C
 
 💡 Strong knowledge of **Windows, Windows Server, Linux (Ubuntu, OpenSUSE), Android/iOS**, including mobile app development. Experienced with **networking, virtualization, and security tools**. Fast learner, continuously expanding expertise, and seeking opportunities to gain hands-on experience in IT.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-c87)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-c87&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
