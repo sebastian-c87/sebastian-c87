@@ -1,4 +1,10 @@
-## 🚀 Transitioning from Finance to IT | AI & Cybersecurity Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=Cześć,+ciekawskie+umysły!;Welcome,+curious+minds!;你好，好奇的头脑们+Nǐ+hǎo,+hàoqí+de+tóunǎo+men!;Bienvenue,+âme+curieuse!;Добро+пожаловать,+любопытная+душа!" />
+</p>
+
+---
+
+## 🚀 Rising IT Developer | AI & Cybersecurity & Coding Enthusiast
 
 Previously worked in **financial services, forex, and crypto**, providing investment platforms. **Currently an IT student at Vistula University, eager to expand my expertise and gain practical experience.**
 
